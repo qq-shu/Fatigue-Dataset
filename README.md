@@ -11,26 +11,25 @@ processing parameters (NT, THT, THQCr, CT, DT, Dt, QmT, TT, TCr, Ct, Tt, THt) an
 (C, Si, Mn, P, S, Ni, Cr, Cu, Mo).
 
 ## Feature description
-#, Feature, Explanation
-1, NT,  Normalizing Temperature
-2, THT, Through Hardening Temperature
-3, THQCr, Cooling Rate for Through Hardening
-4, CT, Carburization Temperature
-5, DT, Diffusion Temperature
-6, Dt, Diffusion Time
-7, QmT, Quenching Media Temperature
-8, TT, Tempering Temperature
-9, TCr, Cooling Rate for Tempering
-10, C, Atomic fraction of C
-11, Si, Atomic fraction of Si
-12, Mn, Atomic fraction of Mn
-13, P, Atomic fraction of P
-14, S, Atomic fraction of S
-15, Ni, Atomic fraction of Cr
-16, Cr, Atomic fraction of Cr
-17, Cu, Atomic fraction of Cu
-18, Mo, Atomic fraction of Mo
-19, Ct, Carburization Time
-20, Tt, Tempering Time
-21, THt, Through Hardening Time
+NT: Normalizing Temperature; 
+THT: Through Hardening Temperature; 
+THQCr: Cooling Rate for Through Hardening; 
+CT: Carburization Temperature;
+DT: Diffusion Temperature;
+Dt: Diffusion Time;
+QmT: Quenching Media Temperature;
+TT: Tempering Temperature;
+TCr: Cooling Rate for Tempering; 
+C: Atomic fraction of C;
+Si: Atomic fraction of Si;
+Mn: Atomic fraction of Mn;
+P: Atomic fraction of P;
+S: Atomic fraction of S;
+Ni: Atomic fraction of Cr;
+Cr: Atomic fraction of Cr;
+Cu: Atomic fraction of Cu;
+Mo: Atomic fraction of Mo;
+Ct: Carburization Time;
+Tt: Tempering Time;
+THt: Through Hardening Time;
 
